@@ -1,0 +1,6 @@
+package com.example.styling_course
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity() {
+}
